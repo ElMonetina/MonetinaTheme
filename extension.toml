@@ -1,6 +1,7 @@
 id = "MonetinaTheme"
 name = "Monetina Theme"
-version = "0.2.0"
 schema_version = 1
+version = "0.2.0"
 authors = ["ElMonetina <gabrielebonipistolesi@gmail.com>"]
 description = "Dark theme heavily inspired by gruber darker theme by Tsoding"
+repository = "https://github.com/ElMonetina/MonetinaTheme"
