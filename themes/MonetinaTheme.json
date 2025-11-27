@@ -30,7 +30,7 @@
         "editor.active_line_number": "#f4e040",
         "editor.active_wrap_guide": "#f4e040",
         "editor.background": "#181818",
-        "editor.document_highlight.bracket_background": "#32321e",
+        "editor.document_highlight.bracket_background": "#474747",
         "editor.document_highlight.read_background": "#474747",
         "editor.document_highlight.write_background": "#323232",
         "editor.foreground": "#dddddd",
