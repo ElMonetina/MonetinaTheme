@@ -33,7 +33,7 @@
         "editor.document_highlight.bracket_background": "#474747",
         "editor.document_highlight.read_background": "#474747",
         "editor.document_highlight.write_background": "#323232",
-        "editor.foreground": "#dddddd",
+        "editor.foreground": "#fcfcfc",
         "editor.gutter.background": "#181818",
         "editor.highlighted_line.background": "#474747",
         "editor.indent_guide": "#323232",
@@ -63,7 +63,7 @@
         "hint.background": "#202020",
         "hint.border": "#606060",
         "icon": "#b0b0b0",
-        "icon.accent": "#dddddd",
+        "icon.accent": "#fcfcfc",
         "icon.disabled": "#474747",
         "icon.muted": "#828282",
         "icon.placeholder": "#ff0000",
@@ -136,7 +136,7 @@
             "font_weight": 600
           },
           "constructor": {
-            "color": "#959590",
+            "color": "#a0a095",
             "font_style": null,
             "font_weight": 600
           },
@@ -149,7 +149,7 @@
             "font_weight": 600
           },
           "function": {
-            "color": "#c0c0bb",
+            "color": "#d0d0d0",
             "font_style": null,
             "font_weight": null
           },
@@ -194,7 +194,7 @@
             "font_weight": null
           },
           "property": {
-            "color": "#c0c0bb",
+            "color": "#fcfcfc",
             "font_style": null,
             "font_weight": null
           },
@@ -212,7 +212,7 @@
             "font_weight": 600
           },
           "tag": {
-            "color": "#959590",
+            "color": "#a0a0b0",
             "font_style": null,
             "font_weight": null
           },
@@ -222,12 +222,12 @@
             "font_weight": null
           },
           "type": {
-            "color": "#959590",
+            "color": "#a0a0a0",
             "font_style": null,
             "font_weight": 600
           },
           "type.builtin": {
-            "color": "#959590",
+            "color": "#9a9a9c",
             "font_style": null,
             "font_weight": 600
           }
@@ -235,9 +235,9 @@
         "tab.active_background": "#202020",
         "tab.inactive_background": "#181818",
         "tab_bar.background": "#202020",
-        "text": "#dddddd",
+        "text": "#fcfcfc",
         "text.accent": "#f4e040",
-        "text.disabled": "#959590",
+        "text.disabled": "#a0a095",
         "text.muted": "#a0a0a0",
         "text.placeholder": "#a0a0a0",
         "title_bar.background": "#202020",
