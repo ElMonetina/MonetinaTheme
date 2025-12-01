@@ -2024,7 +2024,7 @@
         "renamed.border": "#9BAB7B",
         "scrollbar.thumb.background": "#2D3E47A0",
         "scrollbar.thumb.border": "#F2E9C0",
-        "scrollbar.thumb.hover_background": "#3E5460",
+        "scrollbar.thumb.hover_background": "#3E5460A0",
         "scrollbar.track.background": "#1D2A34",
         "scrollbar.track.border": "#2D3E47",
         "search.match_background": "#FF736933",
@@ -2123,7 +2123,7 @@
             "font_weight": null
           },
           "punctuation": {
-            "color": "#51636E",
+            "color": "#74848A",
             "font_style": null,
             "font_weight": null
           },
