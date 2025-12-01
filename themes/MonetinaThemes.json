@@ -2023,7 +2023,7 @@
         "renamed.background": "#2d4520",
         "renamed.border": "#9BAB7B",
         "scrollbar.thumb.background": "#2D3E47A0",
-        "scrollbar.thumb.border": "#51636E",
+        "scrollbar.thumb.border": "#F2E9C0",
         "scrollbar.thumb.hover_background": "#3E5460",
         "scrollbar.track.background": "#1D2A34",
         "scrollbar.track.border": "#2D3E47",
@@ -2141,7 +2141,7 @@
             "font_weight": null
           },
           "title": {
-            "color": "#F2E9C0",
+            "color": "#FF7369",
             "font_style": null,
             "font_weight": null
           },
@@ -2162,7 +2162,7 @@
         "text": "#E0F7FA",
         "text.accent": "#F2E9C0",
         "text.disabled": "#51636E",
-        "text.muted": "#51636E",
+        "text.muted": "#74848A",
         "text.placeholder": "#51636E",
         "title_bar.background": "#1D2A34",
         "title_bar.inactive_background": "#1D2A34",
