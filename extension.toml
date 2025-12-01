@@ -1,7 +1,7 @@
 id = "MonetinaThemes"
 name = "Monetina Themes"
 schema_version = 1
-version = "1.0.1"
+version = "1.0.2"
 authors = ["ElMonetina <gabrielebonipistolesi@gmail.com>"]
 description = "Collection of themes I made and use"
 repository = "https://github.com/ElMonetina/MonetinaTheme"
