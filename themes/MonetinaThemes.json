@@ -148,7 +148,7 @@
             "font_weight": 600
           },
           "function": {
-            "color": "#D0D0D0",
+            "color": "#D0D0DA",
             "font_style": null,
             "font_weight": null
           },
@@ -2034,126 +2034,84 @@
         "success.border": "#9BAB7B",
         "surface.background": "#1D2A34",
         "syntax": {
-          "attribute": {
-            "color": "#82AAA3",
-            "font_style": null,
-            "font_weight": 600
-          },
-          "boolean": {
-            "color": "#D699B5",
-            "font_style": null,
-            "font_weight": 600
-          },
           "comment": {
-            "color": "#74848A",
-            "font_style": null,
-            "font_weight": null
-          },
-          "comment.doc": {
-            "color": "#CF9E6B",
-            "font_style": null,
-            "font_weight": null
-          },
-          "constant": {
-            "color": "#E1F7FA",
-            "font_style": null,
-            "font_weight": 600
-          },
-          "constructor": {
-            "color": "#F2E9C0",
-            "font_style": null,
-            "font_weight": 600
-          },
-          "emphasis": {
+            "color": "#87919D",
             "font_style": "italic"
           },
-          "enum": {
-            "color": "#82AAA3",
-            "font_style": null,
-            "font_weight": 600
-          },
-          "function": {
-            "color": "#F2E9C0",
-            "font_style": null,
-            "font_weight": null
-          },
-          "keyword": {
-            "color": "#FF7369",
-            "font_style": null,
-            "font_weight": 600
-          },
-          "keyword.function": {
-            "color": "#FF7369",
-            "font_style": null,
-            "font_weight": 600
-          },
-          "label": {
-            "color": "#9FAFB6",
-            "font_style": null,
-            "font_weight": null
-          },
-          "link_text": {
-            "color": "#F2E9C0",
-            "font_style": null,
-            "font_weight": null
-          },
-          "link_uri": {
-            "color": "#F2E9C0",
-            "font_style": null,
-            "font_weight": null
-          },
-          "number": {
-            "color": "#D699B5",
-            "font_style": null,
-            "font_weight": null
-          },
-          "operator": {
-            "color": "#CF9E6B",
-            "font_style": null,
-            "font_weight": null
-          },
-          "primary": {
-            "color": "#E0F7FA",
-            "font_style": null,
-            "font_weight": null
-          },
-          "property": {
-            "color": "#E0F7FA",
-            "font_style": null,
-            "font_weight": null
-          },
-          "punctuation": {
-            "color": "#74848A",
-            "font_style": null,
-            "font_weight": null
+          "comment.doc": {
+            "color": "#87919D"
           },
           "string": {
-            "color": "#9BAB7B",
-            "font_style": null,
-            "font_weight": null
+            "color": "#D4BC7D"
           },
-          "strong": {
-            "font_weight": 600
+          "string.regex": {
+            "color": "#D4BC7D"
           },
-          "tag": {
-            "color": "#FF7369",
-            "font_style": null,
-            "font_weight": null
+          "string.special": {
+            "color": "#D4BC7D"
           },
-          "title": {
-            "color": "#FF7369",
-            "font_style": null,
-            "font_weight": null
+          "punctuation": {
+            "color": "#BFC9DB"
+          },
+          "punctuation.bracket": {
+            "color": "#BFC9DB"
+          },
+          "punctuation.delimiter": {
+            "color": "#BFC9DB"
+          },
+          "constant": {
+            "color": "#D699B5"
+          },
+          "constant.numeric": {
+            "color": "#D699B5"
+          },
+          "boolean": {
+            "color": "#D699B5"
+          },
+          "keyword": {
+            "color": "#E67D74"
+          },
+          "operator": {
+            "color": "#E0AD82"
+          },
+          "function": {
+            "color": "#D0C5A9"
+          },
+          "function.builtin": {
+            "color": "#E0AD82"
+          },
+          "function.macro": {
+            "color": "#E0AD82"
+          },
+          "attribute": {
+            "color": "#E67D74"
+          },
+          "variable": {
+            "color": "#BFC9DB"
+          },
+          "variable.special": {
+            "color": "#D699B5"
+          },
+          "variable.parameter": {
+            "color": "#BFC9DB"
           },
           "type": {
-            "color": "#82AAA3",
-            "font_style": null,
-            "font_weight": 600
+            "color": "#82AAA3"
           },
           "type.builtin": {
-            "color": "#82AAA3",
-            "font_style": null,
-            "font_weight": 600
+            "color": "#82AAA3"
+          },
+          "constructor": {
+            "color": "#82AAA3"
+          },
+          "variant": {
+            "color": "#BFC9DB"
+          },
+          "tag": {
+            "color": "#E67D74"
+          },
+          "text.literal": {
+            "color": "#D4BC7D"
           }
         },
         "tab.active_background": "#1D2A34",
@@ -2171,7 +2129,7 @@
         "unreachable.background": "#16222B",
         "unreachable.border": "#51636E",
         "warning": "#CCCC66",
-        "warning.background": "#4D4D26",
+
         "warning.border": "#CCCC66",
         "terminal.ansi.black": "#2D3E47",
         "terminal.ansi.blue": "#82AAA3",
