@@ -2,7 +2,8 @@
 
 A collection of themes made by me:
 
-- Focus: Based on Focus editor default theme.
-- Gruber: Based on Tsoding's Gruber Darker theme for emacs.
-- Gold, Silver, Ruby, Sapphire, Diamond, Pearl: Inspired by the respective
-  Pokèmon games.
+- Gruber: port of Tsoding's Gruber Darker theme.
+- Focus: port of the default the from Focus editor.
+- Hero: port of the emacs theme used in Handmade Hero by Casey Muratori.
+- Dark: custom minimal dark theme.
+- Light: custom minimal light theme.
