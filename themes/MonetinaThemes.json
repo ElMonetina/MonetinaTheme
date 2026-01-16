@@ -613,9 +613,11 @@
             "color": "#C8F040"
           },
           "keyword": {
+            "color": "#C0C0C0",
             "font_weight": 600
           },
           "keyword.function": {
+            "color": "#C0C0C0",
             "font_weight": 600
           },
           "number": {
@@ -794,10 +796,12 @@
             "color": "#121212"
           },
           "keyword": {
+            "background_color": "#D4D0C090",
             "font_weight": 600,
             "color": "#121212"
           },
           "keyword.function": {
+            "background_color": "#D4D0C090",
             "font_weight": 600,
             "color": "#121212"
           },
