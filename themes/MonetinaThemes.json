@@ -516,9 +516,9 @@
         "conflict": "#F0C840",
         "conflict.background": "#F0C84015",
         "conflict.border": "#F0C84030",
-        "created": "#C8F040",
-        "created.background": "#C8F04015",
-        "created.border": "#C8F04030",
+        "created": "#C0D8C0",
+        "created.background": "#C0D8C015",
+        "created.border": "#C0D8C030",
         "deleted": "#F06060",
         "deleted.background": "#F0606015",
         "deleted.border": "#F0606030",
@@ -571,9 +571,9 @@
         "info.background": "#C0D8F015",
         "info.border": "#C0D8F030",
         "link_text.hover": "#C8F040",
-        "modified": "#F0C840",
-        "modified.background": "#F0C84015",
-        "modified.border": "#F0C84030",
+        "modified": "#F0C880",
+        "modified.background": "#F0C88015",
+        "modified.border": "#F0C88030",
         "pane.focused_border": "#3d3d3d",
         "pane_group.border": "#282828",
         "panel.background": "#151515",
@@ -606,22 +606,23 @@
         "success.border": "#C8F04030",
         "surface.background": "#181818",
         "syntax": {
+          "attribute": {
+            "color": "#F08080"
+          },
           "comment": {
-            "color": "#F0C840"
+            "color": "#F0C080"
           },
           "function": {
-            "color": "#C8F040"
+            "color": "#D0F080"
           },
           "keyword": {
-            "color": "#C0C0C0",
-            "font_weight": 600
+            "color": "#C0C0D8"
           },
           "keyword.function": {
-            "color": "#C0C0C0",
-            "font_weight": 600
+            "color": "#C0C0D8"
           },
           "number": {
-            "color": "#F0F040"
+            "color": "#F0F080"
           },
           "string": {
             "color": "#F0F080"
@@ -630,7 +631,13 @@
             "color": "#C0D8F0"
           },
           "type": {
-            "font_weight": 600
+            "color": "#C0D8C0"
+          },
+          "operator": {
+            "color": "#C0C0C0"
+          },
+          "punctuation": {
+            "color": "#C0C0C0"
           }
         },
         "tab.active_background": "#181818",
@@ -666,7 +673,7 @@
         "terminal.dim_foreground": "#F0F0F080",
         "terminal.foreground": "#F0F0F0",
         "text": "#F0F0F0",
-        "text.accent": "#C8F040",
+        "text.accent": "#C0D8C0",
         "text.disabled": "#F0F0F040",
         "text.muted": "#F0F0F080",
         "text.placeholder": "#F0F0F040",
