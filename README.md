@@ -1,9 +1,9 @@
 # Monetina Theme
 
-A collection of themes made by me:
+2 ports of existing themes:
+- Monetina Gruber: port of Gruber Darker
+- Moentina Focus: port of the default theme from the focus text editor:
 
-- Gruber: port of Tsoding's Gruber Darker theme.
-- Focus: port of the default the from Focus editor.
-- Hero: port of the emacs theme used in Handmade Hero by Casey Muratori.
-- Dark: custom minimal dark theme.
-- Light: custom minimal light theme.
+2 custom themes:
+- Monetina Dark
+- Monetina Light
